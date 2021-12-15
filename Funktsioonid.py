@@ -13,6 +13,20 @@
 #K=is_year_leap(int(input("Aasta => ")))
 #print(K)
 
-from Mmodule import *
-A=square(int(input("Arv =>")))
-print(A)
+#from Mmodule import *
+#S=square(int(input("Arv =>")))
+#print("Площадь","Периметр","Диагональ")
+#print(S)
+
+#from Mmodule import *
+#k=season(int(input("Aasta aeg =>")))
+#print(k)
+
+#from module import*
+#print(round(bank(200,20)))
+
+#from module import *
+#print(is_prime(3))
+
+#from Mmodule import *
+#print(date(2000,10,1))
